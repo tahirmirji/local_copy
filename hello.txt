@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-HELLO MANJUNATHA
-=======
-Hello GITHUB
->>>>>>> 2c809859c0972f8bb10c5b5565717bf4a5285115
+Hello 
+HI sir my name is manju
