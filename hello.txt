@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Hello 
-HI sir my name is manju
-=======
-HELLO MANJUNATHA
->>>>>>> 74c7d4f34969735dda254505d7a208ead1db9f89
+Hello
+hi sir my name is manju
